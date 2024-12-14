@@ -1,0 +1,15 @@
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\bin\Debug\net8.0\Demo.exe
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\bin\Debug\net8.0\Demo.deps.json
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\bin\Debug\net8.0\Demo.dll
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\bin\Debug\net8.0\Demo.pdb
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\obj\Debug\net8.0\Demo.sourcelink.json
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\obj\Debug\net8.0\Demo.dll
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\obj\Debug\net8.0\Demo.pdb
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Users\Aliaa Osama\Desktop\ASP.NET-Diploma\C#\Session_04\Demo\Demo\obj\Debug\net8.0\ref\Demo.dll
